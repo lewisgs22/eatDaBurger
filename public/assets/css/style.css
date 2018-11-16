@@ -1,0 +1,70 @@
+.container {
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+h1 {
+    margin-left: 3%;
+    font-family: 'Ranga', cursive;
+    font-size: 80px;
+}
+
+h2 {
+    margin-left: 3%;
+    font-family: 'Ranga', cursive;
+    font-size: 50px;
+}
+
+h4 {
+    margin-left: 3%;
+    font-family: 'Ranga', cursive;
+    font-size: 30px;
+}
+
+#add {
+    margin-left: 3%;
+}
+
+.adding {
+    margin-top: 3%;
+}
+
+.burgerAvailable {
+    font-size: 20px;
+    border-radius: 8px;
+    border-color: orangered;
+    color: orangered;
+}
+
+.burgerAvailable:hover {
+    color: white;
+    background-color: orangered;
+    border: none;
+    cursor: pointer;
+}
+
+.addBurgerButton {
+    font-size: 15px;
+    border-radius: 8px;
+    border-color: orangered;
+    color: orangered;
+}
+
+.addBurgerButton:hover {
+    color: white;
+    background-color: orangered;
+    border: none;
+    cursor: pointer;
+}
+
+.burgerEaten {
+    font-size: 20px;
+}
+
+#headings {
+    display: flex;
+}
+
+#yummy {
+    padding-left: 15%;
+}
